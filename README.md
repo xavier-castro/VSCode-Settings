@@ -9,8 +9,9 @@ Updated 2/13/2019
     "workbench.settings.editor": "json",
     "editor.fontSize": 14,
     "editor.fontFamily": "'SF Mono'",
-    "workbench.startupEditor": "newUntitledFile",
+    "workbench.startupEditor": "readme",
     "workbench.editor.enablePreview": false,
+    "workbench.colorTheme": "Civic",
 
 
     // Zen Mode
@@ -19,7 +20,8 @@ Updated 2/13/2019
     "zenMode.fullScreen": false,
 
     // Terminal
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\sysnative\\bash.exe",
+    "terminal.integrated.fontFamily": "'SF Mono'",
 
     // John Papa Angular Essentials Settings
     "editor.codeLens": false,
@@ -31,7 +33,7 @@ Updated 2/13/2019
     "editor.letterSpacing": 1,
     "editor.tabSize": 2,
     "editor.wordWrap": "off",
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "vscode-seedling-icon-theme",
 
     // John Papa Angular Essentials File Settings
     "files.autoSave": "afterDelay",
@@ -53,6 +55,8 @@ Updated 2/13/2019
     // John Papa Angular Essentials Prettier settings
     "prettier.singleQuote": true,
     "prettier.printWidth": 100,
-    "workbench.colorTheme": "Civic",
+
+    // FILTER
+
 }
 ```
